@@ -1,0 +1,51 @@
+VISQELON — "Why Do Humans Have Two Eyes?"
+Screenplay for ViMax Script2VideoPipeline
+style = "Cinematic hybrid documentary, dark teal and amber, vertical 9:16"
+user_requirement = "Six scenes, at most 3 shots each, 75 seconds total."
+
+SCENE 1 — EXT. MACRO VOID - NIGHT                      [0:00-0:10]
+A single human eye fills the frame, iris in amber and jade. Camera drifts in.
+A face lit from one side, both eyes sharp.
+NARRATOR (V.O.)
+Have you ever wondered why humans have two eyes, not three or four?
+Is it just a coincidence, or does evolution have a reason?
+
+SCENE 2 — INT. DARK STUDIO - CONTINUOUS                [0:10-0:25]
+A standing figure mirrored along a vertical axis of light.
+A fossilised lobe-finned fish skull, two paired eye sockets, raking light.
+NARRATOR (V.O.)
+Humans evolved with a bilateral body plan, meaning our bodies develop
+with two sides. Paired sensory organs, including the eyes, are part of
+this evolutionary pattern.
+
+SCENE 3 — EXT. RAIN-SOAKED STREET - NIGHT              [0:25-0:42]
+One-point perspective, asphalt mirroring neon, a lone figure walking away.
+Two retinal views overlaid, a target at different offsets in each.
+NARRATOR (V.O.)
+But having two eyes gives us an important advantage: binocular vision.
+Each eye captures a slightly different image. Our brain combines these
+images to create stereoscopic depth perception, helping us judge
+distance and navigate the world.
+
+SCENE 4 — INT. ANATOMICAL VOID - CONTINUOUS             [0:42-0:58]
+A glowing fundus, vessels radiating from the optic disc.
+A brain in sagittal section, thalamus lit from within.
+Pyramidal neurons rising in cyan and gold.
+NARRATOR (V.O.)
+Here's the fascinating part. Visual information travels from the retina,
+through the optic nerve, reaches the lateral geniculate nucleus, and
+then the visual cortex. There, the brain processes information from
+both eyes to build our visual experience.
+
+SCENE 5 — EXT. VOLCANIC ROCK - NIGHT                   [0:58-1:08]
+A tuatara, head raised. A pale spot on its crown catches one shaft of light.
+NARRATOR (V.O.)
+Interestingly, some lizards have a third, light-sensitive structure
+called a parietal eye. But it doesn't provide detailed vision like our
+regular eyes.
+
+SCENE 6 — INT. DARKNESS - CONTINUOUS                   [1:08-1:15]
+A face in near-darkness, both eyes symmetrical, a thin rim of light. Hold.
+NARRATOR (V.O.)
+Two eyes, one brain, one visual world.
+TITLE CARD: VISQELON - THE SCIENCE BEHIND SEEING
